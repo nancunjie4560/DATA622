@@ -1,0 +1,17 @@
+---
+title: "DATA622_HW1_ChunjieNan"
+author: "Chunjie Nan"
+date: "3/11/2022"
+output:
+  html_document:
+    code_download: yes
+    code_folding: hide
+    highlight: pygments
+    number_sections: no
+    theme: flatly
+    toc: yes
+    toc_float: yes
+  pdf_document:
+    toc: yes
+---
+
